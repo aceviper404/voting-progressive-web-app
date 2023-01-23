@@ -1,7 +1,6 @@
-import './App.css';
 import React from 'react';
-import SplashScreen from './Components/SplashScreen';
-
+import './App.css';
+import SplashScreen from './components/SplashScreen';
 
 function App() {
   return (
